@@ -18,6 +18,10 @@ description: The documentation of the entire engineering process of CherryAuctio
 url: "https://docs.cherry-auctions.luny.dev" # the base hostname & protocol for your site, e.g. http://example.com
 repository: hikawi/cherry-auctions # for github-metadata
 
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
 permalink: pretty
 
 defaults:

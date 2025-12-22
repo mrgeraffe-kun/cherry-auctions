@@ -12,6 +12,22 @@
     "wrong_password": "Incorrect password.",
     "wrong_method": "This account might not have been registered this way. Try other login options.",
     "internal_error": "This error is not your fault! The server misbehaved.",
-    "internet_error": "Your Internet connection might have gone out"
+    "internet_error": "Your Internet connection might have gone out."
+  },
+  "register": {
+    "title": "Register",
+    "name": "Name",
+    "email": "Email Address",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "name_placeholder": "John Doe",
+    "email_placeholder": "john.doe{'@'}example.com",
+    "action": "Register",
+    "loading": "Registering...",
+    "passwords_dont_match": "Passwords don't match.",
+    "invalid_request": "Email address is invalid, or password is too short.",
+    "conflict": "That email address is already registered.",
+    "internal_error": "This error is not your fault! The server misbehaved.",
+    "internet_error": "Your Internet connection might have gone out."
   }
 }

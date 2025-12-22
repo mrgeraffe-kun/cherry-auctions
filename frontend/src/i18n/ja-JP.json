@@ -13,5 +13,21 @@
     "wrong_method": "別の方法で登録された可能性があります。ほかのログイン方法をお試しください。",
     "internal_error": "サーバーエラーが発生しました。しばらくしてから再度お試しください。",
     "internet_error": "インターネット接続に問題がある可能性があります。"
+  },
+  "register": {
+    "title": "登録",
+    "name": "氏名",
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "confirm_password": "パスワード確認",
+    "name_placeholder": "田中",
+    "email_placeholder": "tanaka{'@'}example.jp",
+    "action": "登録",
+    "loading": "登録しています…",
+    "passwords_dont_match": "パスワードが一致していません。",
+    "invalid_request": "メールアドレスが無効か、パスワードが短すぎる可能性があります。",
+    "conflict": "このメールアドレスがすでに登録されていました。",
+    "internal_error": "サーバーエラーが発生しました。しばらくしてから再びお試しください。",
+    "internet_error": "インターネット接続に問題がある可能性があります。"
   }
 }

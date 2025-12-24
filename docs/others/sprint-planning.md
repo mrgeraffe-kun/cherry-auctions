@@ -22,7 +22,9 @@ the details. For details, look into the issue that was raised for GitHub project
 
 Main Goals:
 
+- [ ] Write specification on Google Oauth flow.
 - [ ] Finish login with Google Oauth flow (both backend and frontend).
+- [ ] Write engineering specification on Forgot Password flow.
 - [ ] Finish forgot password flow with OTP code sent to email address.
 - [ ] Setup a seeding script for seeding in products.
 - [ ] Finish CRUD on category (backend).
@@ -36,6 +38,7 @@ Main Goals:
 Optional Goals:
 
 - [ ] Setup a catalog that displays items and bids.
+- [ ] Setup a CDN in front of S3.
 - [ ] Profile Editing page & Request for Approval page.
 - [ ] Stripe Integration.
 
